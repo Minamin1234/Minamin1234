@@ -1,7 +1,7 @@
 Hi there 👋<br>
 本アカウント管理者のMinaminです．
 
-
+![mona-whisper](https://user-images.githubusercontent.com/62072288/149275555-0eeeec57-01ab-4ef0-a200-da4b23190959.gif)
 <!--
 **Minamin1234/Minamin1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
