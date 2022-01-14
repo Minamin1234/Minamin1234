@@ -31,9 +31,14 @@ Here are some ideas to get you started:
 ### 職業
 大学生 - University Student.<br>
 (OECU univ.)
+
 ### 趣味
 * ソフトウェア開発 - Developing Application
 * ゲーム制作 - Game produce
 * 楽曲制作 - Makeing a music
 * 動画制作 - Makeing a video
 * ブログ投稿 - Posting blog
+
+### その他
+* OECUゲーム制作サークルに所属．ゲームプログラム担当とUE講習会代表を兼任
+* 時々，競プロを解いています．
