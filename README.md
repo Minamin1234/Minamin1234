@@ -36,12 +36,13 @@ Here are some ideas to get you started:
 ### 趣味
 * ソフトウェア開発 - Developing Application
 * ゲーム制作 - Game produce
-* 楽曲制作 - Makeing a music
-* 動画制作 - Makeing a video
+* 楽曲制作 - Making a music
+* 動画制作 - Making a video
 * ブログ投稿 - Posting blog
 
 ### その他
-* OECUゲーム制作サークルに所属．ゲームプログラム担当とUE講習会代表を兼任
+* OECUプログラミングサークル設立者、代表
+* OECUゲーム制作サークルに所属．ゲームプログラム担当とUE講習会代表兼任
 * 時々，競プロを解いています．
 
-最終編集: 2022/01/
+最終編集: 2022/07/04
