@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ### Minamin
 ### 職業
 大学生 - University Student.<br>
-(OECU univ.)
+(OECU)
 
 ### 趣味
 * ソフトウェア開発 - Developing Application
