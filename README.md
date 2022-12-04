@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<!---->## 概要 - About
+## 概要 - About
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Minamin1234&show_icons=true&theme=radical&count_private=true?show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minamin1234&layout=compact&theme=radical)
 
