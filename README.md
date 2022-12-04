@@ -41,7 +41,8 @@ Here are some ideas to get you started:
 * ブログ投稿 - Posting blog
 
 ### その他
-* OECUプログラミングサークル設立者、代表
+* OECUプログラミングサークル設立、代表
+* 電子計算組織研究会(EDPS)所属
 * OECUゲーム制作サークルに所属(幽霊寄り)．ゲームプログラム担当とUE講習会代表兼任
 * 時々，競プロを解いています．
 
