@@ -20,13 +20,6 @@ Here are some ideas to get you started:
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Minamin1234&show_icons=true&theme=radical&count_private=true?show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Minamin1234&layout=compact&theme=radical)
 
-## 開発中 - Developing Now
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Minamin1234&repo=AutoCoder)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Minamin1234&repo=T-Pro2)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Minamin1234&repo=DiscordBot)
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Minamin1234&repo=MComponents_CS)
-
-
 ## 紹介 - Introduce
 ### Minamin
 ### 職業
@@ -46,4 +39,4 @@ Here are some ideas to get you started:
 * OECUゲーム制作サークルに所属(幽霊寄り)．ゲームプログラム担当とUE講習会代表兼任
 * 時々，競プロを解いています．
 
-最終編集: 2022/12/04
+最終編集: 2023/8/07
