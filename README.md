@@ -22,20 +22,5 @@ Here are some ideas to get you started:
 
 ## 紹介 - Introduce
 ### Minamin
-### 職業
-大学生 - University Student.<br>
-(OECU)
 
-### 趣味
-* ソフトウェア開発 - Developing Application
-* ゲーム制作 - Game produce
-* 楽曲制作 - Making a music
-* 動画制作 - Making a video
-* ブログ投稿 - Posting blog
-
-### その他
-* OECUプログラミングサークル設立、元代表
-* OECUゲーム制作サークルに所属(幽霊寄り)．ゲームプログラム担当とUE講習会代表兼任
-* 時々，競プロを解いています．
-
-最終編集: 2023/8/07
+最終編集: 2025/10/08
